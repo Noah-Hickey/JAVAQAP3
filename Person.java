@@ -13,7 +13,6 @@ public class Person {
         }
 
     // Setters //
-
     public void setName(String name){
         myName = name;
     }
